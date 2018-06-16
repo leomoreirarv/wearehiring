@@ -1,6 +1,6 @@
 {
   "name": "wearehiring",
-  "app_id": "",
+  "app_id": "e496614f",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
